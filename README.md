@@ -30,4 +30,4 @@
 
 
 [twitter]: https://twitter.com/Lucas_Arieiv
-[linkedin]: linkedin.com/in/lucas-v-dev/
+[linkedin]: https://linkedin.com/in/lucas-v-dev/
