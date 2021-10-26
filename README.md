@@ -22,11 +22,8 @@
 <br />
 <br />
 
-![Lucasarieiv github stats](https://github-readme-stats.vercel.app/api?username=Lucasarieiv&theme=dracula&show_icons=true)
-
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasarieiv&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Lucasarieiv&theme=dracula&show_icons=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasarieiv&layout=compact&theme=dracula" />
 
 
 [twitter]: https://twitter.com/Lucas_Arieiv
