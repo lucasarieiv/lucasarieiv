@@ -12,7 +12,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <br />
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Lucasarieiv&theme=dracula&show_icons=true" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasarieiv&layout=compact&theme=dracula" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=Lucasarieiv&theme=dracula&show_icons=true" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasarieiv&layout=compact&theme=dracula" />
 
 
