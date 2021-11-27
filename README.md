@@ -6,7 +6,7 @@ Talvez seja definir um ponto de parada para encontrar uma falha no código, reso
 Mr Robot
 
 - 📝 Atualmente estudando.
-- ☁️ Estudando AWS.
+- ☁️ Me aventurando na AWS.
 
 
 ### Linguagens usadas no meu dia a dia:
