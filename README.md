@@ -9,7 +9,7 @@ Mr Robot
 - ☁️ Estudando AWS.
 
 
-### Linguagens que mais uso:
+### Linguagens usadas no meu dia a dia:
 <div style="display: inline-block">
 	<img align="center" alt="Lucas JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 	<img align="center" alt="Lucas Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
