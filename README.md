@@ -1,5 +1,5 @@
 ### Olá! 👋 Tudo tranquilo?
-Desenvolvedor Web Júnior. Buscando experiências para cada vez me tornar um profissional melhor.
+Desenvolvedor Web Júnior. Buscando experiências para me tornar um profissional melhor.
 
 > "Talvez não seja sobre evitar o erro.
 Talvez seja definir um ponto de parada para encontrar uma falha no código, resolvê-la e continuar até atingirmos a próxima falha."
