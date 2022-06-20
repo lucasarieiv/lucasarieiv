@@ -33,7 +33,7 @@ Mr Robot
 
 <a href="https://github.com/lucasarieiv/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasarieiv&show_icons=true&theme=outrun&hide=issues&line_height=24" />
-</a><br>
+</a>
 <a href="https://github.com/lucasarieiv">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasarieiv&layout=compact&theme=outrun" />
 </a>
