@@ -6,7 +6,7 @@ Talvez seja definir um ponto de parada para encontrar uma falha no código, reso
 Mr Robot
 
 - 📝 Sempre em busca de novos aprendizados.
-- ☁️ Um ano de experiência com serviços da AWS.
+- ☁️ Um ano de experiência com serviços AWS.
 
 
 ### Linguagens usadas no meu dia a dia:
