@@ -5,8 +5,8 @@ Desenvolvedor Web Júnior. Buscando experiências para me tornar um profissional
 Talvez seja definir um ponto de parada para encontrar uma falha no código, resolvê-la e continuar até atingirmos a próxima falha."
 Mr Robot
 
-- 📝 Atualmente estudando.
-- ☁️ Me aventurando na AWS.
+- 📝 Sempre em busca de novos aprendizados.
+- ☁️ Um ano de experiência com serviços da AWS.
 
 
 ### Linguagens usadas no meu dia a dia:
