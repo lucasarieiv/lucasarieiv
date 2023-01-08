@@ -1,7 +1,7 @@
 ### Olá! 👋 Tudo tranquilo?
 Desenvolvedor Web Júnior. Buscando experiências para me tornar um profissional melhor.
 
-<img src="https://uploaddeimagens.com.br/images/004/288/747/original/serena_the_nurse_oc_2d_sprite_pixel_art_by_pixitales_dcrgrs6-fullview6.png?1673206469" alt="Avatar" width="160px" height="364px"/>
+<img src="https://uploaddeimagens.com.br/images/004/288/747/original/serena_the_nurse_oc_2d_sprite_pixel_art_by_pixitales_dcrgrs6-fullview6.png?1673206469" alt="Avatar" width="220px" height="364px"/>
 
 > "Talvez não seja sobre evitar o erro.
 Talvez seja definir um ponto de parada para encontrar uma falha no código, resolvê-la e continuar até atingirmos a próxima falha."
