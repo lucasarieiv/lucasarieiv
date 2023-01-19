@@ -1,5 +1,5 @@
 ### Olá! 👋 Tudo tranquilo?
-Desenvolvedor Web Júnior. Buscando experiências para me tornar um profissional melhor.
+Já faz 2 anos que venho atuando e estudando na área de desenvolvimento Web. Busco impactar diretamente a vida das pessoas através da tecnologia, com o objetivo de torná-la mais simples.
 
 > "Talvez não seja sobre evitar o erro.
 Talvez seja definir um ponto de parada para encontrar uma falha no código, resolvê-la e continuar até atingirmos a próxima falha."
