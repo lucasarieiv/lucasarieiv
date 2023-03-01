@@ -27,8 +27,8 @@ Mr Robot
 	<img align="center" alt="Lucas TS" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 	<img align="center" alt="Lucas React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 	<img align="center" alt="Lucas Vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+	<img align="center" alt="Lucas Docker" src="https://img.shields.io/badge/-Docker-61DAFB?logo=docker&logoColor=white&style=for-the-badge" />
 </div><br>
-
 
 <a href="https://github.com/lucasarieiv/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasarieiv&show_icons=true&theme=outrun&hide=issues&line_height=24" />
