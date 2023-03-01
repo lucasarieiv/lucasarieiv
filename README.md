@@ -22,12 +22,12 @@ Mr Robot
 <div style="display: inline-block">
 	<img align="center" alt="Lucas Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 	<img align="center" alt="Lucas AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+	<img align="center" alt="Lucas Docker" src="https://img.shields.io/badge/-Docker-61DAFB?logo=docker&logoColor=white&style=for-the-badge" />
 	<img align="center" alt="Lucas Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 	<img align="center" alt="Lucas Nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 	<img align="center" alt="Lucas TS" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 	<img align="center" alt="Lucas React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 	<img align="center" alt="Lucas Vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-	<img align="center" alt="Lucas Docker" src="https://img.shields.io/badge/-Docker-61DAFB?logo=docker&logoColor=white&style=for-the-badge" />
 </div><br>
 
 <a href="https://github.com/lucasarieiv/github-readme-stats">
