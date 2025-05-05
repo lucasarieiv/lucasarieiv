@@ -1,9 +1,6 @@
-### Olá! 👋 Tudo tranquilo?
-Me chamo Lucas Vieira, tenho 24 anos, moro em Recife-PE. Graduado em Análise e desenvolvimento de Sistemas. Já faz 4 anos que venho atuando e estudando na área de desenvolvimento Web. Busco impactar diretamente a vida das pessoas através da tecnologia, com o objetivo de torná-la mais simples.
+### Quem sou eu?
 
-> "Talvez não seja sobre evitar o erro.
-Talvez seja definir um ponto de parada para encontrar uma falha no código, resolvê-la e continuar até atingirmos a próxima falha."
-Mr Robot
+Desenvolvedor Full Stack | Especialista em soluções escaláveis com foco em impacto real
+Com mais de 5 anos de experiência em desenvolvimento web, atuo como desenvolvedor full stack, entregando soluções modernas, robustas e eficientes. Tenho forte atuação em projetos que integram Frontend, Backend, IoT e serviços em nuvem, com destaque para minha contribuição em um projeto de mercado autônomo — onde liderei a criação de um ecossistema tecnológico completo com React Native, Vue.js, Python e AWS.
 
-- 📝 Sempre em busca de novos aprendizados.
-- ☁️ 3 anos de experiência com serviços AWS.
+Apaixonado por resolver desafios técnicos complexos, sou movido por inovação e pelo desejo de contribuir para o sucesso de produtos digitais. Minha trajetória inclui conhecimentos sólidos em infraestrutura (engenharia de plataforma), desenvolvimento mobile, e integrações com sistemas inteligentes.
